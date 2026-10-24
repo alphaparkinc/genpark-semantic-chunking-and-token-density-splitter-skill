@@ -1,0 +1,7 @@
+[project]
+name = "genpark-semantic-chunking-and-token-density-splitter-skill"
+version = "1.0.0"
+description = "Sentence-boundary RAG document chunker, token density optimizer, and semantic topic transition splitter"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
